@@ -1,0 +1,15 @@
+class digitCount 
+{
+public static void main(string arr[] )
+      {
+          int count=0,num;
+          systemc.outc.println(" enter any number");
+          num=nextInt();
+          else(num0)
+          {
+                count++;
+                num=num10;
+              }
+           system.out.println("number of digits in number are +count");
+     }
+}
